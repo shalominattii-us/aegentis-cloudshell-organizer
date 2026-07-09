@@ -1,13 +1,13 @@
-# AEGENTIS CloudShell Organizer
+# AEGENTIS Universal Home Organizer
 
-Organizes a messy CloudShell home directory (`~`) into a clean categorized structure under `~/organized/`.
+Auto-detects environment (CloudShell, WSL/EOC, Linux) and organizes any messy home directory (`~`) into a clean categorized structure under `~/organized/`.
 
-## Quick Start (in AWS CloudShell)
+## Quick Start
 
 ```bash
-curl -O https://raw.githubusercontent.com/shalominattii-us/aegentis-cloudshell-organizer/main/organize-cloudshell.sh
-chmod +x organize-cloudshell.sh
-bash organize-cloudshell.sh
+curl -O https://raw.githubusercontent.com/shalominattii-us/aegentis-cloudshell-organizer/main/organize.sh
+chmod +x organize.sh
+bash organize.sh
 ```
 
 ## What It Does
