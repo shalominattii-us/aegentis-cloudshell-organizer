@@ -1,0 +1,7 @@
+{
+  "repo": "/home/cloudshell-user/sovereign-repos/my-project",
+  "files": ["src/main.py", "src/auth.py"],
+  "tests": ["pytest", "mypy"],
+  "target": "staging",
+  "description": "Implement JWT authentication middleware"
+}
